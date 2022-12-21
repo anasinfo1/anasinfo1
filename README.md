@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasinfo1&label=Profile%20views&color=0e75b6&style=flat" alt="anasinfo1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasinfo1" alt="anasinfo1" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, AI**
 
 - 📫 How to reach me **salamawork404@gmail.com**
@@ -26,6 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/salama"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="salama" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasinfo1&show_icons=true&locale=en&layout=compact" alt="anasinfo1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasinfo1&show_icons=true&locale=en" alt="anasinfo1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasinfo1&" alt="anasinfo1" /></p>
