@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, AI**
 
-- 📫 How to reach me **salamawork404@gmail.com**
+- 📫 How to reach me **salama@cyberaispace.com**
 
 - ⚡ Coding fact **The first computer virus was a Creeper**
 
