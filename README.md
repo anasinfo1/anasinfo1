@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate Front-End developer from Morocco</h3>
+<h3 align="center">A passionate Mobile & Front-End developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasinfo1&label=Profile%20views&color=0e75b6&style=flat" alt="anasinfo1" /> </p>
 
