@@ -9,7 +9,7 @@
 
 - 😇 Work With Me:
 <a href="https://www.upwork.com/freelancers/~01d6d9e16cdb1fd1e6" target="blank">
-<img width="10"  src="https://github.com/anasinfo1/anasinfo1/assets/94865392/c8051572-8912-42d0-a279-8f4b58692424"/>
+<img width="20"  src="https://github.com/anasinfo1/anasinfo1/assets/94865392/c8051572-8912-42d0-a279-8f4b58692424"/>
  Anas On UpWork</a>
 
 - ⚡ Coding fact **The first computer virus was a Creeper**
